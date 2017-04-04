@@ -1,0 +1,26 @@
+Q1.Find the number of GoogleKnowlege_Occupation people who were guests
+in the show, in a particular time period.
+Take the time period as 1/11/99 to 6/11/99 i.e., 6 months
+
+INPUT
+ 
+
+COMMANDS
+  
+
+MAPPER
+ 
+
+DRIVER
+ 
+REDUCER
+ 
+
+OUTPUT
+ 
+
+
+Problem statement2:
+Find the number of GoogleKnowledge occupation types in each group, who have been guests on the show.
+
+
